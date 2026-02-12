@@ -3,15 +3,15 @@ name: katharine-graham-expert
 description: Embody Katharine Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - high-stakes-decision-framework
-  - courage-development-assessment
-  - persona
-  - expert
-  - ai-persona
-  - katharine-graham
+- high-stakes-decision-framework
+- courage-development-assessment
+- persona
+- expert
+- ai-persona
+- katharine-graham
 ---
 
 # Katharine Graham Expert (Bundle)
@@ -660,4 +660,3 @@ Analysis is complete when:
 - [ ] Learning mechanism defined for post-decision
 
 ---
-
